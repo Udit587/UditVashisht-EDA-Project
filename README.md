@@ -8,8 +8,8 @@ This repository contains all phases of the Exploratory Data Analysis (EDA) cours
 ## Repository Structure
 
 ```
-├── README.md
-└── Phase1_EDA_USSeatBelts.ipynb   # Phase 1: Loading, cleaning, and exploratory analysis
+├── Phase1_EDA_USSeatBelts.ipynb   # Phase 1: Loading, cleaning, and exploratory analysisREADME.md
+└── README.md
 ```
 
 ## Phase 1 — Exploratory Data Analysis
