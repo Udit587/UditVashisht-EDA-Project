@@ -59,4 +59,3 @@ The notebook loads the dataset directly from the raw GitHub URL, so it can be ru
 2. Run all cells (`Runtime → Run all`).
 3. Save a copy back to this GitHub repository (`File → Save a copy in GitHub`).
 
-> Re-running with different library versions can shift the K-Means cluster sizes slightly (a different local optimum); the elbow shape and the small 21-observation cluster stay the same.
